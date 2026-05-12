@@ -9,12 +9,12 @@
     --bg-secondary: #f8f9fa;
     --text-primary: #2c3e50;
     --text-secondary: #6c757d;
-    --accent-color: #4A90E2;
-    --accent-hover: #357abd;
+    --accent-color: #ffc5d3;
+    --accent-hover: #f5a8bb;
     --card-bg: #ffffff;
     --border-color: #e9ecef;
     --shadow: 0 2px 10px rgba(0,0,0,0.1);
-    --gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    --gradient: linear-gradient(135deg, #ffc5d3 0%, #f5a8bb 100%);
 }
 
 [data-theme="dark"] {
